@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d8131d47f1a4b41b5af6c0659188240a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - unshuffledDeck: {fileID: 8657858239337097844, guid: 640b9fa95fb3e4d91926625d1933bb84,
+      type: 3}
+  - deckCardBack: {instanceID: 0}
+  - cardPlaceHolder: {instanceID: 0}
+  - yourTurn: {fileID: 239975146182033704, guid: 661bafc6921bc4fae8b797fcc9d66aa1,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

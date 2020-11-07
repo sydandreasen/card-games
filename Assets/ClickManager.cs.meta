@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: dbf35257fdaf047a589255a390ab922e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - game: {instanceID: 0}
+  - prompt: {fileID: 239975146182033704, guid: 661bafc6921bc4fae8b797fcc9d66aa1, type: 3}
+  - playerLost: {fileID: 8974490351031695049, guid: 021e9c93b389e40178207d78e9213faa,
+      type: 3}
+  - playerWon: {fileID: 2562184713612604776, guid: f9cb660ac66b44bdeb76ef0588ccdbb4,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
